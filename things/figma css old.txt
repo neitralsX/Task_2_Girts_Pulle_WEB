@@ -1,0 +1,134 @@
+#nav1 {
+    position: relative;
+    top: -150px;
+    left: -100px;
+}
+
+#td {
+    position: relative;
+    width: 201px;
+    left: 500px;
+}
+
+#td2 {
+    position: relative;
+    left: 100px;
+}
+
+#logo {
+    position: relative;
+    top:0px;
+}
+
+/* .body { background-color: rgb(255, 122, 89); }  */
+
+#png1 {
+    position: relative;
+    left: -10px;
+    top: -35px;
+}
+
+#img2 {
+    position: relative;
+    top: -510px;
+}
+
+#img4 {
+    position: relative;
+    top: -1047px;
+}
+
+#img3 {
+    position: relative;
+    top: -150px;
+}
+
+#text1 {
+position: relative;
+font-size: 24px;
+text-align: center;
+font-family: 'Calibri';
+font-style: normal;
+color: blue;
+top: 150px;
+}
+
+#text2 {
+    position: relative;
+    left: 30px;
+    width: 600px;
+}
+
+#table1 {
+    position: relative;
+    top: 400px;
+    border-width: 0 0 0 0;
+}
+
+#table2 {
+    position: relative;
+    top: 500px;
+    left: 0px;
+}
+
+#table3 {
+    position: relative;
+    top: 700px;
+}
+
+.button_go {
+    position: relative;
+    background-color: orange;
+    color: #ffffff;
+    border-radius: 700px;
+    left: 110px;
+}
+
+#down {
+    position: relative;
+    top: 780px;
+    width: 1902px;
+    height: 1000px;
+}
+
+#atb {
+    position: relative;
+    top: -70px;
+}
+
+#dt {
+    position: relative;
+    top: 50px;
+    /* border-radius: 400px; */
+}
+
+#td3 {
+    position: relative;
+    left: 100px;
+    width: 350px;
+}
+
+#lt {
+    position: relative;
+    top: 240px;
+}
+
+#ltd {
+    width: 400px;
+    /* height: 700px; */
+}
+
+#ltd2 {
+    width: 50px;
+}
+
+#btn {
+    position: relative;
+    top: 600px;
+    left: 865px;
+}
+
+#btn2 {
+    padding: 15px;
+    margin-left: 15px;
+}
