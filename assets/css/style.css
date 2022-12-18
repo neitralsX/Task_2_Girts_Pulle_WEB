@@ -1,1 +1,591 @@
 
+/* .body {
+    background-color: orange;
+} */
+#logo {
+    position: relative;
+width: 158px;
+height: 95px;
+left: 62px;
+top: 1px;
+z-index: 1;
+}
+
+#wd2 {
+    position: absolute;
+width: 1367px;
+height: 34.93px;
+left: -0.07%;
+right: 0%;
+top: 93px;
+bottom: 96.71%;
+}
+
+#sv {
+    position: relative;
+width: 1366px;
+height: 722px;
+left: 0px;
+top: -47px;
+z-index: -1; 
+/* top: 47px; */
+}
+
+#orange {
+    position: absolute;
+width: 86px;
+height: 83px;
+left: 640px;
+top: 367px;
+z-index: 1;
+}
+
+#wt {
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 643px;
+top: 368px; 
+}
+
+#rec {
+    position: absolute;
+width: 1366px;
+height: 92.51px;
+left: 0px;
+top: 0px;
+}
+
+#ideja {
+    position: absolute;
+width: 46px;
+height: 24px;
+left: 305px;
+top: 49px;
+
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+
+color: #060606;
+}
+
+#ps {
+    position: absolute;
+width: 130px;
+height: 24px;
+left: 386px;
+top: 49px;
+
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+
+color: #060606;
+}
+
+#uznemejiem {
+    position: absolute;
+width: 120px;
+height: 24px;
+left: 543px;
+top: 49px;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+
+color: #060606;
+}
+
+#sb {
+    position: absolute;
+width: 123px;
+height: 45px;
+left: 698px;
+top: 49px;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+
+color: #060606;
+}
+
+#sa {
+    position: absolute;
+width: 153px;
+height: 45px;
+left: 856px;
+top: 49px;
+
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+
+color: #060606;
+}
+
+#is {
+    position: absolute;
+width: 188px;
+height: 29px;
+left: 1036px;
+top: 49px;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+
+color: #060606;
+}
+
+
+
+
+
+#lv {
+    position: absolute;
+width: 29px;
+height: 29px;
+left: 1275px;
+top: 49px;
+
+
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+text-align: center;
+
+color: #060606;
+}
+
+#btn {
+    position: absolute;
+width: 86px;
+height: 83px;
+left: 640px;
+top: 366px;
+
+background: #FFA800;
+}
+
+#zanda {
+    position: absolute;
+width: 328px;
+height: 355px;
+left: 0px;
+top: 1197px;
+}
+
+#sibilla {
+    position: absolute;
+width: 334px;
+height: 364px;
+left: 328px;
+top: 1202px;
+}
+
+#alina {
+    position: absolute;
+width: 298px;
+height: 184px;
+left: 662px;
+top: 1382px;
+}
+
+#bm {
+    position: absolute;
+width: 298px;
+height: 180px;
+left: 662px;
+top: 1202px;
+}
+
+#anda {
+    position: absolute;
+width: 406px;
+height: 383px;
+left: 960px;
+top: 1183px;
+}
+
+#text1 {
+    position: absolute;
+width: 654px;
+height: 114px;
+left: 359px;
+top: 917px;
+
+
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+text-align: center;
+
+color: #2F4858;
+}
+
+#line2 {
+    position: absolute;
+width: 1366px;
+height: 55px;
+left: 1366px;
+top: 1238px;
+}
+
+#line3 {
+    position: absolute;
+width: 1366px;
+height: 55px;
+left: 0px;
+top: 1526px;
+transform: rotate(-180deg);
+}
+
+#vpss {
+    position: absolute;
+width: 394px;
+height: 29px;
+left: 220px;
+top: 1731px;
+
+
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #2F4858;
+}
+
+#vpkps {
+    position: absolute;
+    width: 500px;
+    height: 29px;
+    left: 698px;
+    top: 1731px;
+    
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #2F4858;
+}
+
+#obtn1 {
+    position: absolute;
+    width: 236px;
+    height: 50px;
+    left: 299px;
+    top: 1810px;
+}
+
+#obtn2 {
+    position: absolute;
+    width: 236px;
+    height: 50px;
+    left: 830px;
+    top: 1810px;
+}
+
+#vardsuzvards {
+    position: absolute;
+    border: 5px solid transparent;
+    width: 270px;
+    height: 30px;
+    left: 110px;
+    top: 110px;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: 21px;
+    color: #2F4858;
+}
+
+#epasts {
+    position: absolute;
+    border: 5px solid transparent;
+    width: 270px;
+    height: 30px;
+    left: 425px;
+    top: 110px;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: 21px;
+    color: #2F4858;
+}
+
+#telefons {
+    position: absolute;
+    border: 5px solid transparent;
+    width: 270px;
+    height: 30px;
+    left: 110px;
+    top: 168px;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: 21px;
+    color: #2F4858;
+}
+
+#jvk {
+    position: absolute;
+    border: 5px solid transparent;
+    width: 500px;
+    text-align:start;
+    height: 30px;
+    left: 110px;
+    top: 225px;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: 21px;
+    color: #2F4858;
+}
+
+#oal {
+    position: absolute;
+    height: 30px;
+    left: 102px;
+    top: 453px;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: 16px;
+    color: #2F4858;
+}
+
+#check {
+    position: absolute;
+    text-align:start;
+    left: 110px;
+    top: 518px;
+}
+
+#agree {
+    position: absolute;
+    height: 30px;
+    left: 143px;
+    top: 516px;
+    text-align: left;
+    line-height: 18px;
+    font-family: 'Calibri';
+    font-weight: 100;
+    font-size: 16px;
+    color: #2F4858;
+}
+
+#blue {
+    position: absolute;
+left: 0%;
+width: 1366px;
+height: 330px;
+top: 3321px;
+z-index: -1;
+}
+
+#bl {
+    position: absolute;
+left: 0%;
+right: 0%;
+
+width: 1366px;
+top: 3260px;
+z-index: 0;
+}
+
+#lt {
+    position: absolute;
+    top: 3270px;
+    left: 500px;
+}
+
+#yl {
+    position: absolute;
+    width: 1366px;
+    top: 2812px;  
+    left: 0px;
+}
+
+#yellow {
+    position: absolute;
+    width: 1366px;
+    height: 400px;
+    top: 2870px; 
+    left: 0px;
+}
+
+#sazinaties {
+    position: absolute;
+    width: 819px;
+    height: 48px;
+    left: 274px;
+    top: 2010px;
+    
+    font-weight: 500;
+    font-size: 31px;
+    line-height: 44px;
+    text-align: center;
+    color: #2F4858;
+}
+
+#atb {
+    position: absolute;
+width: 394px;
+height: 29px;
+left: 486px;
+top: 2927px;
+color: #2F4858;
+font-weight: 500;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+}
+
+
+#wu {
+    position: absolute;
+    width: 1366px;
+    height: 55px;
+    left: 0px;
+    top: 1526px;
+    z-index: 1;
+}
+
+#wd {
+    position: absolute;
+width: 1366px;
+height: 55px;
+
+top: 1182px;
+z-index: 1;
+}
+
+#teikums {
+    position: absolute;
+    width: 256px;
+    height: 88px;
+    left: 158px;
+    top: 3042px;
+}
+
+#sem {
+    position: absolute;
+    width: 217px;
+    height: 85px;
+    left: 492px;
+    top: 3042px;
+}
+
+#cb {
+    position: absolute;
+    width: 238.96px;
+    height: 80px;
+    left: 789px;
+    top: 3045px;
+}
+
+#lin {
+    position: absolute;
+    width: 84.77px;
+    height: 120px;
+    left: 1113px;
+    top: 3026px;
+}
+
+#text2 {
+    position: absolute;
+    left: 382px;
+    top: 3333px;
+    color: white;
+    /* font-size: 19px; */
+    line-height: 44px;
+}
+
+#bsh {
+    position: absolute;
+    left: 644px;
+    top: 3336px;
+    color: white;
+    font-weight: 10;
+    /* font-size: 24px; */
+    line-height: 44px;
+}
+
+#text3 {
+    position: absolute;
+    left: 643px;
+    top: 3384px;
+    color: white;
+    /* font-size: 19px; */
+    line-height: 33px;
+}
+
+#JG {
+    position: absolute;
+    left: 1177px;
+    top: 3336px;
+    color: white;
+    font-weight: 10;
+    /* font-size: 24px; */
+    line-height: 44px;
+    text-align: right;
+}
+
+#text5 {
+    position: absolute;
+    left: 1052px;
+    top: 3384px;
+    color: white;
+    /* font-size: 19px; */
+    line-height: 33px;
+    text-align: right;
+}
+
+#sph {
+    position: absolute;
+left: 62px;
+top: 3348px;
+}
+
+#shv {
+    position: absolute;
+    left: 62px;
+    top: 3600px;
+
+
+    /* font-weight: 10;
+    font-size: 14px; */
+    line-height: 17px;
+}
+
+#fb {
+    position: absolute;
+    left: 1220px;
+    top: 3530px;
+}
+
+#insta {
+    position: absolute;
+    left: 1267px;
+    top: 3530px;
+}
+
+#pp {
+    position: absolute;
+    left: 1199px;
+    top: 3617px;
+    /* font-weight: 10;
+    font-size: 14px; */
+    line-height: 17px;
+    text-align: right;
+}
+
+#sutitbtn {
+    position: absolute;
+width: px;
+height: 62px;
+left: 315px;
+top: 606px;
+}
