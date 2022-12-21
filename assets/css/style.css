@@ -356,9 +356,9 @@ color: #2F4858;
 #blue {
     position: absolute;
 left: 0%;
-width: 1366px;
+width: 100%;
 height: 330px;
-top: 3321px;
+top:510%;
 z-index: -1;
 }
 
@@ -516,8 +516,9 @@ z-index: 1;
 
 #sph {
     position: absolute;
-left: 3.25%;
-top: 3348px;
+left: 4.5%;
+top: 4655px;
+width: 250px;
 }
 
 #shv {
