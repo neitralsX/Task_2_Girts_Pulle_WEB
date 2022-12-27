@@ -1,223 +1,188 @@
 /* .body {
     background-color: orange;
 } */
+
+@media screen (max-width: 768px) {
+    /* .sv {
+    width: 1000%; 
+    } */
+}
+
+.wrapper {
+    width: 100%;
+}
+
+#karogs {
+    position: absolute;
+    width: 100%;
+    top: 415.7%;
+    left: 0%;
+    z-index: -1;
+}
+
 #logo {
-    position: relative;
-width: 158px;
-height: 95px;
-left: 62px;
-top: 1px;
+position: absolute;
+width: 10%;
+left: 3.3%;
+top: 0%;
 z-index: 1;
 }
 
 #wd2 {
     position: absolute;
-width: 1367px;
-height: 34.93px;
-left: -0.07%;
-right: 0%;
-top: 93px;
-bottom: 96.71%;
+width: 100%;
+top: 9%;
 }
 
 #sv {
-    position: relative;
-width: 1366px;
-height: 722px;
-left: 0px;
-top: -47px;
+    position: absolute;
+width: 100%;
+left: 0%;
+top: 0%;
 z-index: -1; 
 /* top: 47px; */
 }
 
 #orange {
     position: absolute;
-width: 86px;
-height: 83px;
-left: 640px;
-top: 367px;
+width: 10%;
+left: 50%;
+top: 50%;
 z-index: 1;
 }
 
 #wt {
     position: absolute;
-width: 80px;
-height: 80px;
-left: 643px;
-top: 368px; 
+width: 8%;
+left: 50.5%;
+top: 50.5%; 
 }
 
 #rec {
     position: absolute;
-width: 1366px;
-height: 92.51px;
-left: 0px;
-top: 0px;
+width: 100%;
+left: 0%;
+top: 0%;
 }
 
-#ideja {
-    position: absolute;
-width: 46px;
-height: 24px;
-left: 305px;
-top: 49px;
-
-
+#nav-text {
 font-weight: 500;
 font-size: 20px;
 line-height: 22px;
-
+top: 200%;
 color: #060606;
+}
+
+/* .navbar-brand {
+    
+} */
+
+#ideja {
+    position: absolute;
+width: 10%;
+left: 16%;
+top: 5.3%;
 }
 
 #ps {
     position: absolute;
-width: 130px;
-height: 24px;
-left: 386px;
-top: 49px;
-
-
-font-weight: 500;
-font-size: 20px;
-line-height: 22px;
-
-color: #060606;
+width: 10%;
+left: 20.3%;
+top: 5.3%;
 }
 
 #uznemejiem {
     position: absolute;
-width: 120px;
-height: 24px;
-left: 543px;
-top: 49px;
-
-font-weight: 500;
-font-size: 20px;
-line-height: 22px;
-
-color: #060606;
+width: 10%;
+left: 28.58%;
+top: 5.3%;
 }
 
 #sb {
     position: absolute;
-width: 123px;
-height: 45px;
-left: 698px;
-top: 49px;
-
-font-weight: 500;
-font-size: 20px;
-line-height: 22px;
-
-color: #060606;
+width: 10%;
+left: 36.7%;
+top: 5.3%;
 }
 
 #sa {
     position: absolute;
-width: 153px;
-height: 45px;
-left: 856px;
-top: 49px;
-
-
-font-weight: 500;
-font-size: 20px;
-line-height: 22px;
-
-color: #060606;
+width: 10%;
+left: 45%;
+top: 5.3%;
 }
 
 #is {
     position: absolute;
-width: 188px;
-height: 29px;
-left: 1036px;
-top: 49px;
-
-font-weight: 500;
-font-size: 20px;
-line-height: 22px;
-
-color: #060606;
+width: 10%;
+left: 54.4%;
+top: 5.3%;
 }
-
-
-
-
 
 #lv {
     position: absolute;
-width: 29px;
-height: 29px;
-left: 1275px;
-top: 49px;
-
-
-font-weight: 500;
-font-size: 20px;
-line-height: 22px;
-text-align: center;
-
-color: #060606;
+width: 10%;
+left: 67%;
+top: 5.3%;
 }
 
-#btn {
+.pictures {
     position: absolute;
-width: 86px;
-height: 83px;
-left: 640px;
-top: 366px;
-
-background: #FFA800;
+    width: 20%;
+    top: 150%
 }
 
 #zanda {
-    position: absolute;
-width: 328px;
-height: 355px;
-left: 0px;
-top: 1197px;
+width: 10%;
+left: 0%;
+top: 100%;
 }
 
 #sibilla {
     position: absolute;
-width: 334px;
-height: 364px;
-left: 328px;
-top: 1202px;
+width: 10%;
+left: 17.25%;
+top: 100%;
 }
 
 #alina {
     position: absolute;
-width: 298px;
-height: 184px;
-left: 662px;
-top: 1382px;
+width: 10%;
+left: 34.8%;
+top: 100%;
 }
 
 #bm {
     position: absolute;
-width: 298px;
-height: 180px;
-left: 662px;
-top: 1202px;
+width: 10%;
+left: 34.8%;
+top: 100%;
 }
 
 #anda {
     position: absolute;
-width: 406px;
-height: 383px;
-left: 960px;
-top: 1183px;
+width: 10%;
+left: 50.47%;
+top: 100%;
+}
+
+#sazinaties {
+    position: absolute;
+    width: 40%;
+    left: 30%;
+    top: 330%;
+    font-weight: 500;
+    /* font-size: 31px; */
+    line-height: 44px;
+    text-align: center;
+    color: #2F4858;
 }
 
 #text1 {
     position: absolute;
-width: 654px;
-height: 114px;
-left: 359px;
-top: 917px;
+width: 100%;
+left: 0%;
+top: 120%;
 
 
 font-weight: 400;
@@ -228,29 +193,19 @@ text-align: center;
 color: #2F4858;
 }
 
-#line2 {
-    position: absolute;
-width: 1366px;
-height: 55px;
-left: 1366px;
-top: 1238px;
-}
-
 #line3 {
     position: absolute;
-width: 1366px;
-height: 55px;
-left: 0px;
-top: 1526px;
+width: 100%;
+left: 0%;
+top: 300%;
 transform: rotate(-180deg);
 }
 
 #vpss {
     position: absolute;
-width: 394px;
-height: 29px;
-left: 220px;
-top: 1731px;
+width: 100%;
+left: -30%;
+top: 200%;
 
 
 font-weight: 500;
@@ -262,10 +217,9 @@ color: #2F4858;
 
 #vpkps {
     position: absolute;
-    width: 500px;
-    height: 29px;
-    left: 698px;
-    top: 1731px;
+width: 100%;
+left: -50%;
+top: 200%;
     
 
     font-weight: 500;
@@ -277,18 +231,16 @@ color: #2F4858;
 
 #obtn1 {
     position: absolute;
-    width: 236px;
-    height: 50px;
-    left: 299px;
-    top: 1810px;
+    width: 10%;
+    left: 5%;
+    top: 210%;
 }
 
 #obtn2 {
     position: absolute;
-    width: 236px;
-    height: 50px;
-    left: 830px;
-    top: 1810px;
+    width: 10%;
+    left: 25%;
+    top: 210%;
 }
 
 #vardsuzvards {
@@ -296,7 +248,7 @@ color: #2F4858;
     border: 5px solid transparent;
     width: 270px;
     height: 30px;
-    left: 110px;
+    left: 13.5%;
     top: 110px;
     font-family: 'Calibri';
     font-weight: 100;
@@ -309,7 +261,7 @@ color: #2F4858;
     border: 5px solid transparent;
     width: 270px;
     height: 30px;
-    left: 425px;
+    left: 52%;
     top: 110px;
     font-family: 'Calibri';
     font-weight: 100;
@@ -322,7 +274,7 @@ color: #2F4858;
     border: 5px solid transparent;
     width: 270px;
     height: 30px;
-    left: 110px;
+    left: 13.5%;
     top: 168px;
     font-family: 'Calibri';
     font-weight: 100;
@@ -336,7 +288,7 @@ color: #2F4858;
     width: 500px;
     text-align:start;
     height: 30px;
-    left: 110px;
+    left: 13.5%;
     top: 225px;
     font-family: 'Calibri';
     font-weight: 100;
@@ -347,7 +299,7 @@ color: #2F4858;
 #oal {
     position: absolute;
     height: 30px;
-    left: 102px;
+    left: 12.5%;
     top: 453px;
     font-family: 'Calibri';
     font-weight: 100;
@@ -358,14 +310,15 @@ color: #2F4858;
 #check {
     position: absolute;
     text-align:start;
-    left: 110px;
+    left: 15%;
     top: 518px;
+    opacity: 0;
 }
 
 #agree {
     position: absolute;
     height: 30px;
-    left: 143px;
+    left: 17.5%;
     top: 516px;
     text-align: left;
     line-height: 18px;
@@ -375,12 +328,12 @@ color: #2F4858;
     color: #2F4858;
 }
 
-#blue {
+/* #blue {
     position: absolute;
 left: 0%;
-width: 1366px;
-height: 330px;
-top: 3321px;
+width: 100%;
+height: 52.8%;
+top: 490%;
 z-index: -1;
 }
 
@@ -389,55 +342,33 @@ z-index: -1;
 left: 0%;
 right: 0%;
 
-width: 1366px;
-top: 3260px;
+width: 100%;
+top: 485%;
 z-index: 0;
-}
+} */
 
-#lt {
+/* #yl {
     position: absolute;
-    top: 3270px;
-    left: 500px;
-}
-
-#yl {
-    position: absolute;
-    width: 1366px;
-    top: 2812px;  
-    left: 0px;
+    width: 100%;
+    top: 418%;  
+    left: 0%;
 }
 
 #yellow {
     position: absolute;
-    width: 1366px;
-    height: 400px;
-    top: 2870px; 
-    left: 0px;
-}
-
-#sazinaties {
-    position: absolute;
-    width: 819px;
-    height: 48px;
-    left: 274px;
-    top: 2010px;
-    
-    font-weight: 500;
-    font-size: 31px;
-    line-height: 44px;
-    text-align: center;
-    color: #2F4858;
-}
+    width: 100%;
+    height: 58%;
+    top: 427%; 
+    left: 0%;
+} */
 
 #atb {
     position: absolute;
-width: 394px;
-height: 29px;
-left: 486px;
-top: 2927px;
+left: 45%;
+top: 436%;
 color: #2F4858;
 font-weight: 500;
-font-size: 25px;
+/* font-size: 25px; */
 line-height: 36px;
 text-align: center;
 }
@@ -445,113 +376,108 @@ text-align: center;
 
 #wu {
     position: absolute;
-    width: 1366px;
-    height: 55px;
-    left: 0px;
-    top: 1526px;
+    width: 100%;
+    left: 0%;
+    top: 183%;
     z-index: 1;
 }
 
 #wd {
     position: absolute;
-width: 1366px;
-height: 55px;
-
-top: 1182px;
-z-index: 1;
+    width: 100%;
+    left: 0%;
+    top: 150%;
+    z-index: 1;
 }
 
 #teikums {
     position: absolute;
-    width: 256px;
-    height: 88px;
-    left: 158px;
-    top: 3042px;
+    width: 18.6%;
+    left: 11.55%;
+    top: 452.2%;
 }
 
 #sem {
     position: absolute;
-    width: 217px;
-    height: 85px;
-    left: 492px;
-    top: 3042px;
+    width: 16%;
+    left: 35.9%;
+    top: 452.4%;
 }
 
 #cb {
     position: absolute;
-    width: 238.96px;
-    height: 80px;
-    left: 789px;
-    top: 3045px;
+    width: 17.5%;
+    left: 57.7%;
+    top: 452.7%;
 }
 
 #lin {
     position: absolute;
-    width: 84.77px;
-    height: 120px;
-    left: 1113px;
-    top: 3026px;
+    width: 6.2%;
+    left: 81.5%;
+    top: 449.9%;
 }
 
 #text2 {
     position: absolute;
-    left: 382px;
-    top: 3333px;
+    left: 28.1%;
+    top: 495.8%;
     color: white;
     /* font-size: 19px; */
-    line-height: 44px;
+    line-height: 253%;
 }
 
 #bsh {
     position: absolute;
-    left: 644px;
-    top: 3336px;
+    left: 47.1%;
+    top: 496%;
     color: white;
     font-weight: 10;
     /* font-size: 24px; */
-    line-height: 44px;
+    line-height: 200%;
 }
 
 #text3 {
     position: absolute;
-    left: 643px;
-    top: 3384px;
+    left: 47.1%;
+    top: 503%;
     color: white;
     /* font-size: 19px; */
-    line-height: 33px;
+    line-height: 200%;
 }
 
 #JG {
     position: absolute;
-    left: 1177px;
-    top: 3336px;
+    left: 86.5%;
+    top: 495.9%;
     color: white;
     font-weight: 10;
     /* font-size: 24px; */
-    line-height: 44px;
+    line-height: 200%;
     text-align: right;
 }
 
 #text5 {
     position: absolute;
-    left: 1052px;
-    top: 3384px;
+    left: 77.8%;
+    top: 502.8%;
     color: white;
     /* font-size: 19px; */
-    line-height: 33px;
+    line-height: 200%;
     text-align: right;
 }
 
 #sph {
     position: absolute;
-left: 62px;
-top: 3348px;
+left: 4.5%;
+top: 497.8%;
+width: 13.45%;
 }
 
 #shv {
     position: absolute;
-    left: 62px;
-    top: 3600px;
+    left: 4.6%;
+    top: 535.5%;
 
 
     /* font-weight: 10;
@@ -561,20 +487,22 @@ top: 3348px;
 
 #fb {
     position: absolute;
-    left: 1220px;
-    top: 3530px;
+    left: 89%;
+    top: 524%;
+    width: 1.4%;
 }
 
 #insta {
     position: absolute;
-    left: 1267px;
-    top: 3530px;
+    left: 92.5%;
+    top: 524.2%;
+    width: 2.6%;
 }
 
 #pp {
     position: absolute;
-    left: 1199px;
-    top: 3617px;
+    left: 87.5%;
+    top: 537.5%;
     /* font-weight: 10;
     font-size: 14px; */
     line-height: 17px;
@@ -585,6 +513,6 @@ top: 3348px;
     position: absolute;
 width: px;
 height: 62px;
-left: 315px;
+left: 38.5%;
 top: 606px;
 }
