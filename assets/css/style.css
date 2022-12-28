@@ -4,56 +4,11 @@
 
 #logo {
     position: relative;
-width: 158px;
-height: 95px;
-left: 62px;
-top: 1px;
-z-index: 1;
-}
-
-#wd2 {
-    position: absolute;
-width: 1367px;
-height: 34.93px;
-left: -0.07%;
-right: 0%;
-top: 93px;
-bottom: 96.71%;
-}
-
-#sv {
-    position: relative;
-width: 1366px;
-height: 722px;
-left: 0px;
-top: -47px;
-z-index: -1; 
-/* top: 47px; */
-}
-
-#orange {
-    position: absolute;
-width: 86px;
-height: 83px;
-left: 640px;
-top: 367px;
-z-index: 1;
-}
-
-#wt {
-    position: absolute;
-width: 80px;
-height: 80px;
-left: 643px;
-top: 368px; 
-}
-
-#rec {
-    position: absolute;
-width: 1366px;
-height: 92.51px;
-left: 0px;
-top: 0px;
+    width: 11.8%;
+    height: auto;
+    left: 4.5%;
+    top: 0%;
+    z-index: 1;
 }
 
 #texts {
@@ -70,92 +25,54 @@ line-height: 22px;
 color: #060606;
 }
 
-#ps {
+#wd2 {
     position: absolute;
     width: 100%;
-height: 24px;
-left: 386px;
-top: 49px;
-
-
-font-weight: 500;
-font-size: 170%;
-line-height: 22px;
-
-color: #060606;
+    height: auto;
+left: 0%;
+right: 0%;
+top: 12%;
 }
 
-#uznemejiem {
+#sv {
     position: absolute;
     width: 100%;
-height: 24px;
-left: 543px;
-top: 49px;
-
-font-weight: 500;
-font-size: 170%;
-line-height: 22px;
-
-color: #060606;
+    height: auto;
+left: 0%;
+top: 7%;
+z-index: -1; 
 }
 
-#sb {
+#orange {
+    position: absolute;
+    width: 6.3%;
+    height: auto;
+left: 46.8%;
+top: 54.5%;
+z-index: 1;
+}
+
+#wt {
+    position: absolute;
+    width: 4%;
+    height: auto;
+left: 47.5%;
+top: 55%;
+}
+
+#rec {
+    position: absolute;
     position: absolute;
     width: 100%;
-height: 45px;
-left: 698px;
-top: 49px;
-
-font-weight: 500;
-font-size: 170%;
-line-height: 22px;
-
-color: #060606;
+    height: 13%;
+left: 0px;
+top: 0px;
 }
 
-#sa {
+#links {
     position: absolute;
-    width: 100%;
-height: 45px;
-left: 856px;
-top: 49px;
-
-
-font-weight: 500;
-font-size: 170%;
-line-height: 22px;
-
-color: #060606;
-}
-
-#is {
-    position: absolute;
-    width: 100%;
-height: 29px;
-left: 1036px;
-top: 49px;
-
-font-weight: 500;
-font-size: 170%;
-line-height: 22px;
-
-color: #060606;
-}
-
-#lv {
-    position: absolute;
-width: 100%;
-height: 29px;
-left: 1275px;
-top: 49px;
-
-
-font-weight: 500;
-font-size: 170%;
-line-height: 22px;
-text-align: center;
-
-color: #060606;
+left: 16%;
+top: 0%;   
 }
 
 #btn {
@@ -168,57 +85,33 @@ top: 366px;
 background: #FFA800;
 }
 
-#zanda {
+#pictures {
     position: absolute;
-width: 328px;
-height: 355px;
-left: 0px;
-top: 1197px;
+    width: 100%;
+top: 176%;
 }
 
-#sibilla {
-    position: absolute;
-width: 334px;
-height: 364px;
-left: 328px;
-top: 1202px;
+#people {
+    position: relative;
+    width: 100%;
+    height: auto;
+    z-index: 0;
 }
 
-#alina {
-    position: absolute;
-width: 298px;
-height: 184px;
-left: 662px;
-top: 1382px;
-}
-
-#bm {
-    position: absolute;
-width: 298px;
-height: 180px;
-left: 662px;
-top: 1202px;
-}
-
-#anda {
-    position: absolute;
-width: 406px;
-height: 383px;
-left: 960px;
-top: 1183px;
+#span {
+    position: relative;
+    width: 100%;
+    top: 400%;
 }
 
 #text1 {
     position: absolute;
-width: 654px;
-height: 114px;
-left: 359px;
-top: 917px;
-
+left: 30%;
+top: 136.8%;
 
 font-weight: 400;
-font-size: 20px;
-line-height: 22px;
+font-size: 26px;
+line-height: 30px;
 text-align: center;
 
 color: #2F4858;
@@ -243,14 +136,12 @@ transform: rotate(-180deg);
 
 #vpss {
     position: absolute;
-width: 394px;
-height: 29px;
-left: 220px;
-top: 1731px;
+left: 18%;
+top: 258%;
 
 
 font-weight: 500;
-font-size: 24px;
+font-size: 32px;
 line-height: 36px;
 text-align: center;
 color: #2F4858;
@@ -258,14 +149,12 @@ color: #2F4858;
 
 #vpkps {
     position: absolute;
-    width: 500px;
-    height: 29px;
-    left: 698px;
-    top: 1731px;
+    left: 52%;
+    top: 258%;
     
 
     font-weight: 500;
-    font-size: 24px;
+    font-size: 32px;
     line-height: 36px;
     text-align: center;
     color: #2F4858;
@@ -273,121 +162,101 @@ color: #2F4858;
 
 #obtn1 {
     position: absolute;
-    width: 236px;
-    height: 50px;
-    left: 299px;
-    top: 1810px;
+    width: 17.2%;
+    height: auto;
+    left: 21.8%;
+    top: 269%;
 }
 
 #obtn2 {
     position: absolute;
-    width: 236px;
-    height: 50px;
-    left: 830px;
-    top: 1810px;
+    width: 17.2%;
+    height: auto;
+    left: 60.8%;
+    top: 269%;
 }
 
 #vardsuzvards {
     position: absolute;
     border: 5px solid transparent;
-    width: 270px;
-    height: 30px;
-    left: 110px;
-    top: 110px;
+    width: auto;
+    height: auto;
+    left: 28%;
+    top: 314.6%;
     font-family: 'Calibri';
     font-weight: 100;
-    font-size: 21px;
+    font-size: 26px;
     color: #2F4858;
 }
 
 #epasts {
     position: absolute;
     border: 5px solid transparent;
-    width: 270px;
-    height: 30px;
-    left: 425px;
-    top: 110px;
+    width: auto;
+    height: auto;
+    left: 51.25%;
+    top: 314.6%;
     font-family: 'Calibri';
     font-weight: 100;
-    font-size: 21px;
+    font-size: 26px;
     color: #2F4858;
 }
 
 #telefons {
     position: absolute;
     border: 5px solid transparent;
-    width: 270px;
-    height: 30px;
-    left: 110px;
-    top: 168px;
+    width: auto;
+    height: auto;
+    left: 28%;
+    top: 323.5%;
     font-family: 'Calibri';
     font-weight: 100;
-    font-size: 21px;
+    font-size: 26px;
     color: #2F4858;
 }
 
 #jvk {
     position: absolute;
     border: 5px solid transparent;
-    width: 500px;
-    text-align:start;
-    height: 30px;
-    left: 110px;
-    top: 225px;
+    width: 40%;
+    height: auto;
+    left: 28%;
+    top: 332%;
     font-family: 'Calibri';
     font-weight: 100;
-    font-size: 21px;
+    font-size: 26px;
     color: #2F4858;
 }
 
 #oal {
     position: absolute;
-    height: 30px;
-    left: 102px;
-    top: 453px;
+    width: auto;
+    height: auto;
+    left: 27.5%;
+    top: 368%;
     font-family: 'Calibri';
     font-weight: 100;
-    font-size: 16px;
+    font-size: 22px;
     color: #2F4858;
 }
 
 #check {
     position: absolute;
     text-align:start;
-    left: 110px;
-    top: 518px;
+    left: 28%;
+    top: 376%;
 }
 
 #agree {
     position: absolute;
-    height: 30px;
-    left: 143px;
-    top: 516px;
-    text-align: left;
-    line-height: 18px;
+    width: auto;
+    height: auto;
+    left: 30.5%;
+    top: 375%;
     font-family: 'Calibri';
     font-weight: 100;
-    font-size: 16px;
+    font-size: 22px;
     color: #2F4858;
-}
-
-#blue {
-    position: absolute;
-left: 0%;
-width: 1366px;
-height: 330px;
-top: 3321px;
-z-index: -1;
-}
-
-#bl {
-    position: absolute;
-left: 0%;
-right: 0%;
-
-width: 1366px;
-top: 3260px;
-z-index: 0;
 }
 
 #lt {
@@ -396,27 +265,30 @@ z-index: 0;
     left: 500px;
 }
 
-#yl {
-    position: absolute;
-    width: 1366px;
-    top: 2812px;  
-    left: 0px;
+#footer {
+position: absolute;
+width: 100%;
+height: auto;
+left: 0%;
+top: 415%;
 }
 
-#yellow {
+#sam {
     position: absolute;
-    width: 1366px;
-    height: 400px;
-    top: 2870px; 
-    left: 0px;
+    left: 40%;
+    top: 300%;
+    
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 44px;
+    text-align: center;
+    color: #2F4858;
 }
 
 #sazinaties {
     position: absolute;
-    width: 819px;
-    height: 48px;
-    left: 274px;
-    top: 2010px;
+    left: 30%;
+    top: 300%;
     
     font-weight: 500;
     font-size: 31px;
@@ -427,169 +299,620 @@ z-index: 0;
 
 #atb {
     position: absolute;
-width: 394px;
-height: 29px;
-left: 486px;
-top: 2927px;
+left: 44%;
+top: 436%;
 color: #2F4858;
-font-weight: 500;
-font-size: 25px;
+font-weight: bold;
+font-size: 32px;
 line-height: 36px;
 text-align: center;
+z-index: 2;
 }
 
 
 #wu {
     position: absolute;
-    width: 1366px;
-    height: 55px;
-    left: 0px;
-    top: 1526px;
+    width: 100%;
+    height: 13%;
+    left: 0%;
+    top: 222%;
     z-index: 1;
 }
 
 #wd {
     position: absolute;
-width: 1366px;
-height: 55px;
-
-top: 1182px;
+    width: 100%;
+    height: auto;
+top: 176%;
 z-index: 1;
 }
 
 #teikums {
     position: absolute;
-    width: 256px;
-    height: 88px;
-    left: 158px;
-    top: 3042px;
+    width: 18.5%;
+    height: auto;
+    left: 11.7%;
+    top: 452.3%;
 }
 
 #sem {
     position: absolute;
-    width: 217px;
-    height: 85px;
-    left: 492px;
-    top: 3042px;
+    width: 16%;
+    height: auto;
+    left: 36%;
+    top: 452.4%;
 }
 
 #cb {
     position: absolute;
-    width: 238.96px;
-    height: 80px;
-    left: 789px;
-    top: 3045px;
+    width: 17.5%;
+    height: auto;
+    left: 57.7%;
+    top: 452.6%;
 }
 
 #lin {
     position: absolute;
-    width: 84.77px;
-    height: 120px;
-    left: 1113px;
-    top: 3026px;
+    width: 6.2%;
+    height: auto;
+    left: 81.5%;
+    top: 450%;
 }
 
 #text2 {
     position: absolute;
-    left: 382px;
-    top: 3333px;
+    left: 28%;
+    top: 496%;
     color: white;
-    /* font-size: 19px; */
-    line-height: 44px;
+    line-height: 255%;
+    font-size: 24px;
 }
 
 #bsh {
     position: absolute;
-    left: 644px;
-    top: 3336px;
+    left: 47%;
+    top: 497%;
     color: white;
-    font-weight: 10;
-    /* font-size: 24px; */
     line-height: 44px;
+    font-size: 32px;
 }
 
 #text3 {
     position: absolute;
-    left: 643px;
-    top: 3384px;
+    left: 47%;
+    top: 503.3%;
     color: white;
-    /* font-size: 19px; */
-    line-height: 33px;
+    line-height: 190%;
+    font-size: 24px;
 }
 
 #JG {
     position: absolute;
-    left: 1177px;
-    top: 3336px;
+    left: 85.5%;
+    top: 497%;
     color: white;
-    font-weight: 10;
-    /* font-size: 24px; */
     line-height: 44px;
-    text-align: right;
+    font-size: 33px;
 }
 
 #text5 {
     position: absolute;
-    left: 1052px;
-    top: 3384px;
-    color: white;
-    /* font-size: 19px; */
-    line-height: 33px;
     text-align: right;
+    left: 77.8%;
+    top: 503.3%;
+    color: white;
+    line-height: 190%;
+    font-size: 24px;
 }
 
 #sph {
     position: absolute;
-left: 62px;
-top: 3348px;
+    left: 4.6%;
+    top: 497.6%;
+    width: 13.3%;
 }
 
 #shv {
     position: absolute;
-    left: 62px;
-    top: 3600px;
-
-
-    /* font-weight: 10;
-    font-size: 14px; */
-    line-height: 17px;
+    left: 4.6%;
+    top: 535.5%;
+    line-height: 110%;
+    font-size: 20px;
+    z-index: 2;
 }
 
 #fb {
     position: absolute;
-    left: 1220px;
-    top: 3530px;
+    width: 1.3%;
+    left: 89.4%;
+    top: 525%;
 }
 
 #insta {
     position: absolute;
-    left: 1267px;
-    top: 3530px;
+    width: 2.6%;
+    left: 92.8%;
+    top: 525%;
 }
 
 #pp {
     position: absolute;
-    left: 1199px;
-    top: 3617px;
-    /* font-weight: 10;
-    font-size: 14px; */
+    left: 87.1%;
+    top: 538%;
     line-height: 17px;
+    font-size: 20px;
     text-align: right;
 }
 
 #sutitbtn {
     position: absolute;
-width: px;
-height: 62px;
-left: 315px;
-top: 606px;
+width: 13.5%;
+height: auto;
+left: 43.2%;
+top: 388.8%;
 }
 
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .body {
+        background-color: orange;
+       }
+   
+       #logo {
+           position: relative;
+           width: 11.8%;
+           height: auto;
+           left: 4.5%;
+           top: 0%;
+           z-index: 1;
+       }
+       
+       #texts {
+           position: relative;
+       height: auto;
+       left: 10%;
+       top: 49px;
+       
+       
+       font-weight: 500;
+       font-size: 170%;
+       line-height: 22px;
+       
+       color: #060606;
+       }
+       
+       #wd2 {
+           position: absolute;
+           width: 100%;
+           height: auto;
+       left: 0%;
+       right: 0%;
+       top: 12%;
+       }
+       
+       #sv {
+           position: absolute;
+           width: 100%;
+           height: auto;
+       left: 0%;
+       top: 7%;
+       z-index: -1; 
+       }
+       
+       #orange {
+           position: absolute;
+           width: 6.3%;
+           height: auto;
+       left: 46.8%;
+       top: 54.5%;
+       z-index: 1;
+       }
+       
+       #wt {
+           position: absolute;
+           width: 4%;
+           height: auto;
+       left: 47.5%;
+       top: 55%;
+       }
+       
+       #rec {
+           position: absolute;
+           position: absolute;
+           width: 100%;
+           height: 13%;
+       left: 0px;
+       top: 0px;
+       }
+       
+       #links {
+           position: absolute;
+       left: 16%;
+       top: 0%;   
+       }
+       
+       #btn {
+           position: absolute;
+       width: 86px;
+       height: 83px;
+       left: 640px;
+       top: 366px;
+       
+       background: #FFA800;
+       }
+       
+       #pictures {
+           position: absolute;
+           width: 100%;
+       top: 176%;
+       }
+       
+       #people {
+           position: relative;
+           width: 100%;
+           height: auto;
+           z-index: 0;
+       }
+       
+       #span {
+           position: relative;
+           width: 100%;
+           top: 400%;
+       }
+       
+       #text1 {
+           position: absolute;
+       left: 30%;
+       top: 136.8%;
+       
+       font-weight: 400;
+       font-size: 26px;
+       line-height: 30px;
+       text-align: center;
+       
+       color: #2F4858;
+       }
+       
+       #line2 {
+           position: absolute;
+       width: 1366px;
+       height: 55px;
+       left: 1366px;
+       top: 1238px;
+       }
+       
+       #line3 {
+           position: absolute;
+       width: 1366px;
+       height: 55px;
+       left: 0px;
+       top: 1526px;
+       transform: rotate(-180deg);
+       }
+       
+       #vpss {
+           position: absolute;
+       left: 18%;
+       top: 258%;
+       
+       
+       font-weight: 500;
+       font-size: 32px;
+       line-height: 36px;
+       text-align: center;
+       color: #2F4858;
+       }
+       
+       #vpkps {
+           position: absolute;
+           left: 52%;
+           top: 258%;
+           
+       
+           font-weight: 500;
+           font-size: 32px;
+           line-height: 36px;
+           text-align: center;
+           color: #2F4858;
+       }
+       
+       #obtn1 {
+           position: absolute;
+           width: 17.2%;
+           height: auto;
+           left: 21.8%;
+           top: 269%;
+       }
+       
+       #obtn2 {
+           position: absolute;
+           width: 17.2%;
+           height: auto;
+           left: 60.8%;
+           top: 269%;
+       }
+       
+       #vardsuzvards {
+           position: absolute;
+           border: 5px solid transparent;
+           width: auto;
+           height: auto;
+           left: 28%;
+           top: 314.6%;
+           font-family: 'Calibri';
+           font-weight: 100;
+           font-size: 26px;
+           color: #2F4858;
+       }
+       
+       #epasts {
+           position: absolute;
+           border: 5px solid transparent;
+           width: auto;
+           height: auto;
+           left: 51.25%;
+           top: 314.6%;
+           font-family: 'Calibri';
+           font-weight: 100;
+           font-size: 26px;
+           color: #2F4858;
+       }
+       
+       #telefons {
+           position: absolute;
+           border: 5px solid transparent;
+           width: auto;
+           height: auto;
+           left: 28%;
+           top: 323.5%;
+           font-family: 'Calibri';
+           font-weight: 100;
+           font-size: 26px;
+           color: #2F4858;
+       }
+       
+       #jvk {
+           position: absolute;
+           border: 5px solid transparent;
+           width: 40%;
+           height: auto;
+           left: 28%;
+           top: 332%;
+           font-family: 'Calibri';
+           font-weight: 100;
+           font-size: 26px;
+           color: #2F4858;
+       }
+       
+       #oal {
+           position: absolute;
+           width: auto;
+           height: auto;
+           left: 27.5%;
+           top: 368%;
+           font-family: 'Calibri';
+           font-weight: 100;
+           font-size: 22px;
+           color: #2F4858;
+       }
+       
+       #check {
+           position: absolute;
+           text-align:start;
+           left: 28%;
+           top: 376%;
+       }
+       
+       #agree {
+           position: absolute;
+           width: auto;
+           height: auto;
+           left: 30.5%;
+           top: 375%;
+           font-family: 'Calibri';
+           font-weight: 100;
+           font-size: 22px;
+           color: #2F4858;
+       }
+       
+       #lt {
+           position: absolute;
+           top: 3270px;
+           left: 500px;
+       }
+       
+       #footer {
+       position: absolute;
+       width: 100%;
+       height: auto;
+       left: 0%;
+       top: 415%;
+       }
+       
+       #sam {
+           position: absolute;
+           left: 40%;
+           top: 300%;
+           
+           font-weight: 500;
+           font-size: 37px;
+           line-height: 44px;
+           text-align: center;
+           color: #2F4858;
+       }
+       
+       #sazinaties {
+           position: absolute;
+           left: 30%;
+           top: 300%;
+           
+           font-weight: 500;
+           font-size: 31px;
+           line-height: 44px;
+           text-align: center;
+           color: #2F4858;
+       }
+       
+       #atb {
+           position: absolute;
+       left: 44%;
+       top: 436%;
+       color: #2F4858;
+       font-weight: bold;
+       font-size: 32px;
+       line-height: 36px;
+       text-align: center;
+       z-index: 2;
+       }
+       
+       
+       #wu {
+           position: absolute;
+           width: 100%;
+           height: 13%;
+           left: 0%;
+           top: 222%;
+           z-index: 1;
+       }
+       
+       #wd {
+           position: absolute;
+           width: 100%;
+           height: auto;
+       top: 176%;
+       z-index: 1;
+       }
+       
+       #teikums {
+           position: absolute;
+           width: 18.5%;
+           height: auto;
+           left: 11.7%;
+           top: 452.3%;
+       }
+       
+       #sem {
+           position: absolute;
+           width: 16%;
+           height: auto;
+           left: 36%;
+           top: 452.4%;
+       }
+       
+       #cb {
+           position: absolute;
+           width: 17.5%;
+           height: auto;
+           left: 57.7%;
+           top: 452.6%;
+       }
+       
+       #lin {
+           position: absolute;
+           width: 6.2%;
+           height: auto;
+           left: 81.5%;
+           top: 450%;
+       }
+       
+       #text2 {
+           position: absolute;
+           left: 28%;
+           top: 496%;
+           color: white;
+           line-height: 255%;
+           font-size: 24px;
+       }
+       
+       #bsh {
+           position: absolute;
+           left: 47%;
+           top: 497%;
+           color: white;
+           line-height: 44px;
+           font-size: 32px;
+       }
+       
+       #text3 {
+           position: absolute;
+           left: 47%;
+           top: 503.3%;
+           color: white;
+           line-height: 190%;
+           font-size: 24px;
+       }
+       
+       #JG {
+           position: absolute;
+           left: 85.5%;
+           top: 497%;
+           color: white;
+           line-height: 44px;
+           font-size: 33px;
+       }
+       
+       #text5 {
+           position: absolute;
+           text-align: right;
+           left: 77.8%;
+           top: 503.3%;
+           color: white;
+           line-height: 190%;
+           font-size: 24px;
+       }
+       
+       #sph {
+           position: absolute;
+           left: 4.6%;
+           top: 497.6%;
+           width: 13.3%;
+       }
+       
+       #shv {
+           position: absolute;
+           left: 4.6%;
+           top: 535.5%;
+           line-height: 110%;
+           font-size: 20px;
+           z-index: 2;
+       }
+       
+       #fb {
+           position: absolute;
+           width: 1.3%;
+           left: 89.4%;
+           top: 525%;
+       }
+       
+       #insta {
+           position: absolute;
+           width: 2.6%;
+           left: 92.8%;
+           top: 525%;
+       }
+       
+       #pp {
+           position: absolute;
+           left: 87.1%;
+           top: 538%;
+           line-height: 17px;
+           font-size: 20px;
+           text-align: right;
+       }
+       
+       #sutitbtn {
+           position: absolute;
+       width: 13.5%;
+       height: auto;
+       left: 43.2%;
+       top: 388.8%;
+       }
+}
 
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .body {
+     background-color: orange;
+    }
 
-
-
-@media screen and (min-width: 1024px) {
     #logo {
         position: relative;
         width: 11.8%;
@@ -597,6 +920,20 @@ top: 606px;
         left: 4.5%;
         top: 0%;
         z-index: 1;
+    }
+    
+    #texts {
+        position: relative;
+    height: auto;
+    left: 10%;
+    top: 49px;
+    
+    
+    font-weight: 500;
+    font-size: 170%;
+    line-height: 22px;
+    
+    color: #060606;
     }
     
     #wd2 {
@@ -1025,39 +1362,4 @@ top: 606px;
     left: 43.2%;
     top: 388.8%;
     }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-    #sv {
-        width: 100%;
-        height: auto;
-    }
-}
-
-@media screen and (min-width: 320px) and (max-width: 767px) {
-    #sv {
-        width: 380%;
-        height: auto;
-    }
-
-    #rec {
-        width: 380%;
-    }
-
-    #wd2 {
-        width: 380%;
-    }
-
-    #wd {
-        width: 380%;
-    }
-
-    #wu {
-        width: 380%;
-    }
-
-    #pictures {
-        position: relative;
-        top: 200%;
-    }
-}
+ }
