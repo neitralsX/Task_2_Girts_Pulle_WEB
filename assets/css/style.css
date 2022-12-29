@@ -1630,7 +1630,7 @@ top: 606px;
         width: 405%;
         height: auto;
         left: 0%;
-        top: 265%;
+        top: 269%;
         z-index: 1;
     }
     
@@ -1638,7 +1638,7 @@ top: 606px;
         position: absolute;
         width: 405%;
         height: auto;
-    top: 210%;
+    top: 209.5%;
     z-index: 1;
     }
 
@@ -1924,7 +1924,7 @@ top: 606px;
     #JG {
         position: absolute;
         width: 60%;
-        left: 330%;
+        left: 325%;
         top: 611%;
         color: white;
         line-height: 44px;
