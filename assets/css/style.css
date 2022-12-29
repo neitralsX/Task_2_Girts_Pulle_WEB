@@ -1893,9 +1893,9 @@ top: 606px;
     
     #text2 {
         position: absolute;
-        width: 50%;
+        width: 70%;
         left: 112%;
-        top: 600%;
+        top: 610%;
         color: white;
         line-height: 200%;
         font-size: 24px;
@@ -1905,7 +1905,7 @@ top: 606px;
         position: absolute;
         left: 190%;
         width: 100%;
-        top: 601%;
+        top: 611%;
         color: white;
         line-height: 44px;
         font-size: 32px;
@@ -1915,7 +1915,7 @@ top: 606px;
         position: absolute;
         left: 190%;
         width: 100%;
-        top: 607%;
+        top: 617%;
         color: white;
         line-height: 180%;
         font-size: 24px;
@@ -1924,8 +1924,8 @@ top: 606px;
     #JG {
         position: absolute;
         width: 60%;
-        left: 335%;
-        top: 601%;
+        left: 330%;
+        top: 611%;
         color: white;
         line-height: 44px;
         font-size: 33px;
@@ -1936,7 +1936,7 @@ top: 606px;
         width: 100%;
         text-align: right;
         left: 286%;
-        top: 607%;
+        top: 617%;
         color: white;
         line-height: 180%;
         font-size: 24px;
@@ -1945,14 +1945,14 @@ top: 606px;
     #sph {
         position: absolute;
         left: 17%;
-        top: 602%;
+        top: 612%;
         width: 55%;
     }
     
     #shv {
         position: absolute;
         left: 17%;
-        top: 652%;
+        top: 662%;
         line-height: 110%;
         font-size: 20px;
         z-index: 2;
@@ -1962,21 +1962,21 @@ top: 606px;
         position: absolute;
         width: 6%;
         left: 357%;
-        top: 638%;
+        top: 648%;
     }
     
     #insta {
         position: absolute;
         width: 13%;
         left: 372%;
-        top: 638%;
+        top: 648%;
     }
     
     #pp {
         position: absolute;
         width: 50%;
         left: 337%;
-        top: 655%;
+        top: 665%;
         line-height: 17px;
         font-size: 20px;
         text-align: right;
